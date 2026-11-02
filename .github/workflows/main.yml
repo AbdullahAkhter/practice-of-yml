@@ -1,11 +1,10 @@
 name: Abdullah
 on: 
  push: 
-   branches: [main]
+  branches: [main]
 jobs:
-   demo:
-     runs-on: ubuntu-latest
-     steps:
-       - name: greeting
-         run: echo "jjfjfjfjfj"
-   
+  demo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: greeting
+        run: echo "fjfjjjfjf"
